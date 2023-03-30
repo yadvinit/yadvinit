@@ -1,14 +1,14 @@
-### Hi there 👋  I'M VINIT ![image](https://user-images.githubusercontent.com/128273189/228749625-f2f17689-ad16-4e07-b0ab-e3e2e792619d.png)
-
-![image](https://user-images.githubusercontent.com/128273189/228750397-2e74d5ca-f957-466a-88ba-db6c7c87377a.png)
-![image](https://user-images.githubusercontent.com/128273189/228750701-1caa1445-c63e-4c35-a656-bbeb743f5d4f.png)
+![image](https://user-images.githubusercontent.com/128273189/228751410-072d52b8-e61e-4abe-9a3e-3787f476e04a.png)
 
 
-<!--
-**yadvinit/yadvinit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on AWS Cloud Services
+
+### Hi there 👋  I'M VINIT
+
+- 🔭 I’m currently working on 
+![image](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+- 
 - 🌱 I’m currently learning Linux , AWS 
+- 
 - ⚡ Fact: FasT learneR
