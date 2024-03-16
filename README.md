@@ -1,6 +1,6 @@
 
 
-## Hi there 👋  I'M VINIT
+## I'M VINIT
 
 <img src='https://user-images.githubusercontent.com/128273189/228751410-072d52b8-e61e-4abe-9a3e-3787f476e04a.png' width=250) />
 
