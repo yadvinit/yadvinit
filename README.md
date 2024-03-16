@@ -7,9 +7,11 @@
 
 
 
-- 🔭 I’m currently working on 
+- 🔭 I’m AWS Cloud Engineer
 ![image](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 - 
-- 🌱 I’m currently learning Linux , AWS 
+- 🌱 I’m currently learning Linux , Docker ,hadoop
+- 
+- 🐍 Python for Coding
 - 
 - ⚡ Fact: FasT learneR
