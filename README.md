@@ -7,11 +7,14 @@
 
 
 
-- 🔭 I’m AWS Cloud Engineer
-![image](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+- 🔭 I’m Full Stack Developer
+![image]([https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white](https://skill-lync.com/blogs/what-is-full-stack-development-here-all-you-need-to-know))
 - 
-- 🌱 I’m currently learning Linux , Docker ,hadoop
+- 🌱 I’m working with following techstack
+- Next.js / React.js /Node.js
+- MongoDb / Postresql / Sql
 - 
-- 🐍 Python for Coding
+- 400 + counting   Coding Question
+- C++ always fav but python also give kick 
 - 
 - ⚡ Fact: FasT learneR
